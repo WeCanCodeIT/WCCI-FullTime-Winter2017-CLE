@@ -61,13 +61,20 @@ Class is from 9:30am-3:00pm Monday-Friday, with the exception of holidays on whi
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
 
-In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course. Finally, you must receive a grade of 70% or higher on the final project.
+In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
 
 ## Projects
 
 Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, including code readability, proper variable names, and comments when necessary.
 
-Projects must be turned in by the date and time specified on the project information page, or else they will receive a late penalty of 10% for each day that the project is late, up to 5 days. After 5 days, the project should still be submitted in order to get credit for project completion per course requirements.
+### Regarding late and incomplete projects, We Can Code IT’s policy is as follows:
+* For each day after the project is due, the grade will automatically be deducted by 10 percentage points of the maximum possible score.
+  * To be clear, a project due at 9:30 on a Monday morning is considered one day late starting at 9:31 that morning. 
+  * That project is then considered an additional day late starting at 9:31 on Tuesday morning, thereby being two days late.
+* After a project is five days late (using the above example, this would be Friday at 9:31 am), the project is automatically scored at a 0/100 or 0%.
+* If a student knows in advance that she or he will not be able to submit the project by its due date, that student is required to notify the instructors via email as soon as possible.
+* Extensions on project submissions will be given with the Education Team’s discretion in the case of extenuating circumstances.
+
 
 ## Final Projects
 
