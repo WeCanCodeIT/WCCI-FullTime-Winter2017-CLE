@@ -63,12 +63,6 @@ You are required to attend a minimum of 90% of class time to be eligible for gra
 
 In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. You must also complete every assignment - any assignments considered **incomplete** must be resubmitted before the end of the course. Finally, you must receive a grade of 70% or higher on the final project.
 
-## Homework Assignments
-
-Homework assignments are self-graded, with students marking each assignment in one of four categories. These categories map to a certain number of points out of 5 possible points for each homework assignment.
-
-You must submit your assignments when they are due, whether or not they are complete or you feel 100% confident in your work. Homework assignments will act primarily as indicators of how you are currently feeling in the moment.
-
 ## Projects
 
 Projects are graded by WCCI staff. Projects are typically worth 100 points. 90 points of each project will be determined by the tasks that are completed, with attempts resulting in partial credit for a given task. The final 10 points of each project are determined by overall code quality, including code readability, proper variable names, and comments when necessary.
