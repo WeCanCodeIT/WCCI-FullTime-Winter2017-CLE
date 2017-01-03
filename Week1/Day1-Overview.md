@@ -8,7 +8,6 @@
 - Reference Materials
   -N/A
 - Problems/Projects
-  - Houses Sorting
   - Team Building
 - Extension
   - N/A
