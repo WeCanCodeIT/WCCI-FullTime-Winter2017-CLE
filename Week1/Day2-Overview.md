@@ -13,3 +13,4 @@
 - Reference Materials
   - [Data Types and Variables](https://docs.google.com/a/wecancodeit.org/presentation/d/1fv1Sff-2CgcapULaRcBdGhMs1TTdTcX01etXm4bc_6I/edit?usp=sharing)
 - Problems/Projects
+  - Git [Try Git](https://try.github.io)
