@@ -10,5 +10,5 @@
 - Problems/Projects
   - Team Building
 - Extension
-  - N/A
+  - Optional Reading: Chapters 1-4 in the C# Player's guide.
 
