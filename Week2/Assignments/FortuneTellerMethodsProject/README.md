@@ -42,8 +42,8 @@ process the user's input.
  - [ ] This method should tell the user what the fortune teller thinks of the fortune. Pick a phrase of your choosing.
   - [ ] example: "Oooh! That's a good fortune!" or "Well, I think that was the weirdest fortune I've ever told!"
   - [ ] hint: Don't overthink it.
-- [ ] Create a Method that allows the user to quit the program at any point where the program is looking for user input.
-- [ ] Create a Method that allows the user to restart the program at any point where the program is looking for user input.
+- [ ] Allow the user to quit the program at any point where the program is looking for user input.
+- [ ] Allow the user to restart the program at any point where the program is looking for user input.
 
 ### Part 3
 - [ ] The user should be greeted after entering their name.
