@@ -12,4 +12,4 @@
   - [Intro to Object Oriented Programming](https://docs.google.com/presentation/d/1GWfWK3dwL8jkJgzq9QsUA98hciElgRdCNJ68B_csOLw/edit?usp=sharing)
 
 - Problems/Projects
-  - Weekend Project
+  - [Fortune Teller Methods Project](https://github.com/WeCanCodeIT/WCCI-FullTime-Winter2017-CLE/tree/master/Week2/Assignments/FortuneTellerMethodsProject)
