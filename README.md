@@ -20,18 +20,19 @@
 - Week 2
   - Loops and Arrays
   - Intro to OOP
-  - Lists and Dictionaries
-  - Building Classes - Methods and Properties
 - Week 3
-  - Inheritance
-  - Exceptions and File I/O
+  - Lists
+  - Building Classes - Methods and Properties
+  - File I/O
 - Week 4
+  - Inheritance & polymorphism
+  - Exceptions
   - HTML
   - CSS
   - Bootstrap
-  - Razor
 - Week 5
   - MVC
+  - Razor
   - Code First Model Design
 - Week 6
   - Database First Model Design
@@ -46,8 +47,8 @@
   - AJAX
   - JSON and APIs
 - Week 9
+  - Dictionaries
   - Advanced MVC
-  - TDD
   - RegEx
   - StringBuilder
 - Weeks 10-12
