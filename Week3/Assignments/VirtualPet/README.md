@@ -23,7 +23,6 @@ Make a virtual pet. Bonus points if it becomes a fad.
 
 - [ ] Give the pet the ability to take care of some of its own needs
 - [ ] A visual representation of the pet
-- [ ] Calling `Tick` in a separate thread
 - [ ] Alternative interfaces
 
 ## Details
@@ -36,7 +35,7 @@ First, decide what "features" you want to incorporate. You might be tempted to m
 
 Next, design a class for the pet. Think of what properties/methods you will need to have for your MVP. Methods might involve things that happen when a person interacts with the pet.
 
-You should plan to include a method called `Tick()` that will update any properties or call time-based methods. The idea behind this method is that every time the menu is shown or some user interaction occurs, you could call the `Tick()` method to cause properties to update. You may want to have some of the properties update randomly to make the virtual pet less predictable.
+As a stretch/optional extension, you should plan to include a method called `Tick()` that will update any properties or call time-based methods. The idea behind this method is that every time the menu is shown or some user interaction occurs, you could call the `Tick()` method to cause properties to update. You may want to have some of the properties update randomly to make the virtual pet less predictable.
 
 Some ideas for things that a virtual pet should have (along with some ideas for activities that might address them):
 
@@ -57,7 +56,9 @@ If you play with the pet, perhaps that makes it more tired. Have fun with this p
 
 Also, remember that more features `!=` better. Pick a focus for your pet. Maybe go with a theme.
 
-Once you've designed the class, it's time to think about the user interface. We're using a Console interface for now, so it will likely involve some sort of loop and a menu showing possible actions, as well as indicating the state of the pet. You'll have to decide when to call the `Tick` method - if you want it to `Tick` every time the menu is shown, or for a stretch task you could explore using a separate thread to have `Tick`s occur automatically every second.
+Once you've designed the class, it's time to think about the user interface. We're using a Console interface for now, so it will likely involve some sort of loop and a menu showing possible actions, as well as indicating the state of the pet. 
+
+If you decide to include the optional extension, you'll have to decide when to call the `Tick` method - if you want it to `Tick` every time the menu is shown, or for a stretch task you could explore using a separate thread to have `Tick`s occur automatically every second.
 
 Your user interface should live in the `Main` method of the `Program` class. You should also have a `VirtualPet` class in a separate file.
 
