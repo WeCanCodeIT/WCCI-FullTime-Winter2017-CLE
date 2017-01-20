@@ -15,7 +15,6 @@ Make a virtual pet. Bonus points if it becomes a fad.
 - [ ] VirtualPet class
   - [ ] Properties (at least three)
   - [ ] Methods (at least three)
-  - [ ] `Tick` method
 - [ ] Program class
   - [ ] `Main` method
 
