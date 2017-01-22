@@ -58,7 +58,7 @@
 
 # Grading Policy
 
-Class is from 9:30am-3:00pm Monday-Friday, with the exception of holidays on which we will not be having class.
+Class is from 9:30am-3:30pm Monday-Friday, with the exception of holidays on which we will not be having class.
 
 You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform your instructor and TA if extenuating circumstances arise.
 
