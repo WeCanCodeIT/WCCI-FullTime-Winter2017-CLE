@@ -25,4 +25,7 @@
   
 - Problems/Projects
   - [Never Go Out](Assignments/02-never-go-out/)
+  
+- Project
+ - [Bank Account](https://github.com/WeCanCodeIT/WCCI-FullTime-Winter2017-CLE/tree/master/Week4/Assignments/BankAccount)
 
