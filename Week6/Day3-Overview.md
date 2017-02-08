@@ -5,8 +5,8 @@
 - Topics
   - Project review
   - MVC
-  - Migrations(tentative)
+  -[Migrations(tentative)](https://docs.google.com/presentation/d/14Mf60EoUVF5ple2oUwMZKpspd2Bk8QFbJXazMCHWQcg/edit?usp=sharing)
   
 - Problems/Projects
-  -[Migrations Walkthrough](https://docs.google.com/presentation/d/14Mf60EoUVF5ple2oUwMZKpspd2Bk8QFbJXazMCHWQcg/edit?usp=sharing)
+ 
 
