@@ -33,11 +33,14 @@ This project is due **Monday, February 13th at 9:30 AM**.
   - [ ] You are only required to style the Index(home page) and the details page for reviews. Use what we’ve learned regarding CSS and Bootstrap to style the pages to your liking.
   - [ ] Do not worry about styling the Create, Edit and Delete views initially.
 - [ ] Bootstrap Requirements
-  - [ ] Navbar
+  - [ ] Navbar (Not the default MVC Header)
+  - [ ] Navbar should have a link to the reviews details page
+  - [ ] Footer (Not the default MVC Footer)
   - [ ] Row(s)
   - [ ] Columns
 - [ ] Documentation
   - [ ] Program should be commented throughout explaining the code
 - [ ] Stretch Tasks
   - [ ] Add Unique images for each review
+  - [ ] Style the default home page, OR change the configuration to immediately launch to the review index page
   - [ ] Style the Edit, Create, and Delete pages
