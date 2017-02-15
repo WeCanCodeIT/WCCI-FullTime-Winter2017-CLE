@@ -86,4 +86,4 @@ Explore the `cshtml` files that make up your application and make them look a li
 
 This assignment is _very similar_ to the task you did when learning database first MVC, with a simpler database schema. To start with, just worry about getting the database and basic controller actions set up! Everything else will follow from that.
 
-* [Submission Link](https://goo.gl/forms/klAY4tUOb1Kw9xdq1)*
+
