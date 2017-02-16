@@ -9,4 +9,4 @@
   - Fortune Teller MVC Project Review - [FortuneTellerMVC](Assignments/FortuneTellerMVC.md)
   
 - Problems/Projects
-  - 
+  - [Wardrobe MVC](https://github.com/WeCanCodeIT/WCCI-FullTime-Winter2017-CLE/blob/master/Week7/Assignments/WardrobeMVC.md)
