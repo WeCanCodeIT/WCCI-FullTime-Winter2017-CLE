@@ -6,7 +6,7 @@ Create a database-first web application for managing the contents of your wardro
 
 ## Due
 
-This project is due **Monday 2/20/2017, at 9:30 AM**. 
+This project is due **Monday 2/20/2017, at 12:00 PM**. 
 
 ## Tasks
 
