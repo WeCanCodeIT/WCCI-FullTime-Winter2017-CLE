@@ -10,4 +10,5 @@
   - [jQuery Tutorial](http://try.jquery.com/levels/1/challenges/1)
   
 - Projects
+  - [Pair Programming 8 Ball](https://github.com/WeCanCodeIT/WCCI-FullTime-Winter2017-CLE/blob/master/Week8/Assignments/PairProgramming8Ball.md)
 
