@@ -6,7 +6,7 @@ Create a static portfolio webpage highlighting your work so far. Focus first on 
 
 ## Due
 
-This project is due **Monday, 01/27/2017, at 9:30 AM**. 
+This project is due **Monday, 01/27/2017, at 9:30 AM**. [Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSfX_ZXbAYLNPhvh6ilDgCwqdDiAThAe1o6EFrmPL0ay6kEx4Q/viewform)
 
 ## Tasks
 
