@@ -13,7 +13,7 @@ This project is due **Monday, 01/27/2017, at 9:30 AM**.
 ### Required Tasks
 
 - [ ] Project Setup
-  - [ ] Create a project/repository called `portfolio`
+  - [ ] Create a project/repository called `username.github.io` with your GitHub username.
   - [ ] Create a static HTML site, including a file called `index.html` that will serve as the landing page for your portfolio
 - [ ] Projects (3)
   - [ ] Name of project
