@@ -66,7 +66,7 @@ You can include your portfolio site as one of the sites on your portfolio site!
 
 ## Hints
 
-You are encouraged to use templates as a starting point. [HTML5 UP](https://html5up.net/) is a great resource. Note that HTML5 UP templates are responsive, but don't use Bootstrap. You can also Google for [Bootstrap Templates](http://lmgtfy.com/?q=Bootstrap+Templates). ;)
+You are encouraged to use templates as a starting point. [HTML5 UP](https://html5up.net/) is a great resource. Note that HTML5 UP templates are responsive, but don't use Bootstrap. You can also Google for [Bootstrap Templates](https://www.google.com/search?q=Bootstrap+Templates). ;)
 
 You may want to use Bootstrap to get things started, but probably don't want to set it up as a full MVC project. You can get a folder complete with Bootstrap, jQuery, and some starter boilerplate HTML from http://www.initializr.com/ - just be sure to choose the **Bootstrap** version.
 
