@@ -9,4 +9,4 @@
   - Pitch Practice and Discussion
   
 - Problems/Projects
-  - 
+  - [Final Project Requirements](https://github.com/WeCanCodeIT/WCCI-FullTime-Winter2017-CLE/blob/master/Week9/Assignments/FinalProjectRequirements.md)
