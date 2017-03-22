@@ -1,19 +1,19 @@
 _(Always subject to change)_
 
 # Day 1
+- Sprint 3/4 Meeting
 - Presentation preparation
-- [Presentation Tools](prestools.md)
 
 # Day 2
-- **CODE FREEZE**
-- Deploy project
+- Project work
 
 # Day 3
 - Final sprint meetings
 - Presentation practice
-- Career Day Prep
+- [Presentation Tools](prestools.md)
 
 # Day 4
+- Career Day Prep
 - Presentation practice
 
 # Day 5 (8:30am-3:30pm)
